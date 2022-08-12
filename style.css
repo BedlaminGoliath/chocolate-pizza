@@ -18,7 +18,7 @@ margin-right: 0%;
 #wifimarge{
     display: flex;
     align-items: flex-end;
-    justify-items: self-end;
+    justify-content: end;
 }
 hr{
     border-top: 10px solid #8c8b8b;
